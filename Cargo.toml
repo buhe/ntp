@@ -17,5 +17,5 @@ conv = "0.3.2"
 custom_derive = "0.1.5"
 log = "0.3.6"
 
-[dev-dependencies]
-chrono = "0.4.4"
+# [dev-dependencies]
+# chrono = "0.4.4"
